@@ -1,2 +1,3 @@
-exclude: []
-#- template/*
+exclude:
+- vendors/**/*.html
+- README.md
