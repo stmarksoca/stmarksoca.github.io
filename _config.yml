@@ -1,0 +1,3 @@
+exclude:
+- vendors/**/*.html
+- README.md
