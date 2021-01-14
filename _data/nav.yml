@@ -1,0 +1,6 @@
+- name: News
+  link: /news.html
+- name: Bulletin
+  link: /bulletin.html
+- name: About
+  link: /about.html
