@@ -42,4 +42,4 @@ jekyll serve -P 8080
 
 ## Open in a browser
 
-[http://localhost:8080]()
+[http://localhost:8080](http://localhost:8080)
