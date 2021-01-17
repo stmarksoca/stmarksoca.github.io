@@ -1,8 +1,0 @@
----
-applications:
-- name: stmarksoca
-  instances: 3
-  memory: 64M
-  path: _site
-  buildpacks:
-  - staticfile_buildpack
