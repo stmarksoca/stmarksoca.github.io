@@ -1,5 +1,7 @@
 ---
 layout: main
+tab: About
+title: About
 ---
 ## Orthodoxy
 
