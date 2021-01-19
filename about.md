@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: simple
 tab: About
 title: About
 ---

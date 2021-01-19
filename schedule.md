@@ -4,50 +4,51 @@ tab: Schedule
 title: Schedule
 ---
 
-## Schedule of regular services
-
-Sunday
-9:10am - Hours
-9:30am - Divine Liturgy
-11:15am - Fellowship Hour
-
-Wednesday
-9:15am - Akathist followed by Adult Education
-
-Saturday
-6:00pm - Great Vespers and Confessions
-
-## Schedule of feastal services
-
-Eve of Feast
-7:00pm - Great Vespers with Litya or Vigil
-
-See Bulletin.
-
-Feast
-9:15am - Divine Liturgy
-
-## Schedule of Lenten services
+## Regular services
 
 ### Sunday
 
-Hours - 9:10am
-
-Divine Liturgy - 9:30am
+- 9:10am - Hours
+- 9:30am - Divine Liturgy
+- 11:15am - Fellowship Hour
 
 ### Wednesday
 
-Liturgy of Presanctified Gifts - 9:15am
-
-### Friday
-
-Liturgy of Presanctified Gifts - 7:00pm
+- 9:15am - Akathist followed by Adult Education
 
 ### Saturday
 
-Divine Liturgy for the Departed - 9:30am - Memorial Saturdays
+- 6:00pm - Great Vespers and Confessions
 
-Great Vespers and Confession - 6:00pm
+## Feastal services
+
+### Feast Eve
+
+- 7:00pm - Great Vespers with Litya or Vigil
+
+### Feast Day
+
+- 9:15am - Divine Liturgy
+
+## Lenten services
+
+### Sunday
+
+- 9:10am - Hours
+- 9:30am - Divine Liturgy
+
+### Wednesday
+
+- 9:15am - Liturgy of Presanctified Gifts
+
+### Friday
+
+- 7:00pm - Liturgy of Presanctified Gifts
+
+### Saturday
+
+- 9:30am - Divine Liturgy for the Departed (Memorial Saturdays only)
+- 6:00pm - Great Vespers and Confessions
 
 ## Calendar
 
