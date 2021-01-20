@@ -1,4 +1,6 @@
 - name: News
   link: /news/index.html
+- name: Schedule
+  link: /schedule.html
 - name: About
   link: /about.html
