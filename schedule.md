@@ -2,6 +2,7 @@
 layout: simple
 tab: Schedule
 title: Schedule
+permalink: /schedule
 ---
 
 ## Regular services
