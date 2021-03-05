@@ -3,7 +3,6 @@ layout: simple
 tab: About
 title: About
 ---
-## Orthodoxy
 
 ### History of the Orthodox Church
 The history of the Orthodox Church actually begins in the Acts of the Holy Apostles, with the Descent of the Holy Spirit: When the day of Pentecost had come, they were all together in one place. And suddenly a sound came from heaven like the rush of a mighty wind, and it filled all the house where they were sitting. And there appeared to them tongues as of fire, distributed and resting on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues, as the Spirit gave them utterance (Acts 2:1-4). As the text further tells us, on that same day, after St. Peter had preached to the gathered people, those who received his word were baptized, and there were added that day about three thousand souls (Acts 2:41), thus constituting the first Christian community at Jerusalem.
@@ -22,7 +21,3 @@ In July 1973 the Very Rev. Vladimir S. Borichevsky was appointed to serve the pa
 Fr. John Kowalczyk served St. Mark's from 1977 to 1979. He was succeeded by the reappointment of Fr. Vladimir, who remained until 1986. On June 1, 1986, Fr. Stephen Karaffa was assigned to the parish. Under Fr. Stephen's term the parish acquired its own property, some five acres of wooded land with a home in Wrightstown, PA (the present location). The grounds were cleared for a church edifice and parking area. Construction began in August, 1988, and on October 14, the new building was consecrated by His Grace, Bishop Herman.
 
 In September of 1992, Very Rev. Theodore Heckman was assigned to St. Mark's. In December of 2012, the present rector, Rev. Raymond Martin Browne was assinged to St. Mark's.
-
-## Administration
-
-### Parish Council
