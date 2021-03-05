@@ -22,7 +22,7 @@ cd stmarksoca
 ### Steps
 
 ```bash
-bundle install --without production
+bundle install
 jekyll serve -P 8080
 ```
 
