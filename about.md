@@ -2,6 +2,7 @@
 layout: simple
 tab: About
 title: About
+permalink: /about
 ---
 
 ## Orthodoxy

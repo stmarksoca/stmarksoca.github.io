@@ -1,6 +1,5 @@
 exclude:
 - cd/*
-- ci/*
 - vendors/**/*.html
 - vendors/html5up-massively/images/bg.jpg
 - Dockerfile
