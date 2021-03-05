@@ -7,23 +7,22 @@ An **unofficial** website of the St. Mark's Orthodox Church.
 ## Get the sources
 
 ```bash
-git clone https://github.com/stmarksoca/stmarksoca.github.io.git
-cd stmarksoca.github.io
+git clone https://github.com/stmarksoca/stmarksoca.git
+cd stmarksoca
 ```
 
 ## Run using Jekyll and Webrick
 
 ### Prerequisites
 
-- Ruby
+- Ruby 3
 - Gem
 - Bundler
 
 ### Steps
 
 ```bash
-bundle install
-bundle update
+bundle install --without production
 jekyll serve -P 8080
 ```
 
@@ -36,8 +35,8 @@ jekyll serve -P 8080
 ### Steps
 
 ```bash
-./ci/build.sh
-./cd/run.sh
+docker build stmarksoca/stmarksoca .
+docker run -it --rm -e PORT=8080 -p 8080:8080 stmarksoca/stmarksoca
 ```
 
 ## Open in a browser
