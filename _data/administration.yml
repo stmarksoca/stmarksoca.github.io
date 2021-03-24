@@ -1,0 +1,35 @@
+- id: primate
+  name: Tikhon
+  salutation: The Most Blessed
+  title: Archbishop of Washington, Metropolitan of All America and Canada
+  bio: http://oca.org/holy-synod/bishops/the-most-blessed-tikhon
+  address: P.O. Box 675, Syosset, NY 11791
+  email: metropolitan@oca.org
+  phone: (516) 922-0550
+- id: bishop
+  name: Mark
+  salutation: The Most Reverend
+  title: Archbishop of Philadelphia and the Diocese of Eastern Pennsylvania
+  bio: http://oca.org/holy-synod/bishops/the-most-reverend-mark
+  address: 144 St. Tikhon's Road, Waymart, PA 18472
+  email: vladyka.mark@gmail.com
+  phone: (570) 937-9331
+- id: rector
+  name: Raymond Martin Browne
+  salutation: Very Reverend
+  title: Rector
+  address: 452 Durham Road, Wrightstown, PA 18940
+  email: frraymondmartin@hotmail.com
+  phone: (215) 860-9640
+- id: attached1
+  name: Michael Sekela
+  salutation: Very Reverend
+  title: Attached
+  phone: (540) 841-3202
+- id: attached2
+  name: Gregory Moser
+  salutation: Protodeacon
+  title: Attached
+  address: 1612 Franklin Drive, Furlong, PA 18925
+  email: gpmoser@comcast.net
+  phone: (215) 794-8980
