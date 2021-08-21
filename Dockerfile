@@ -1,4 +1,4 @@
-FROM ruby:3.0.0
+FROM ruby:3.0.1
 COPY . /source
 WORKDIR /source
 RUN bundle config set --local without 'development'
